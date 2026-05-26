@@ -1,0 +1,17 @@
+{
+  "name": "Jokes-Generator-API",
+  "main": "src/index.js",
+  "license": "MIT",
+  "dependencies": {
+    "cors": "2.8.6",
+    "express": "5.2.1",
+    "express-rate-limit": "8.5.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "type": "module",
+  "author": "Taraknath Karan"
+}
