@@ -38,8 +38,7 @@ yarn run dev
 ```
 #### I am making a request to the `/` route.
 ```json 
-//It is Response
-
+// It is Response
 // This is a general function that selects one of the following categories—General, Knock-knock, or Programming—and provides a joke response from the selected category.
 {
   "setup": "Did you hear about the bread factory burning down?",
@@ -50,7 +49,6 @@ yarn run dev
 #### I am making a request to the `/dsaddsa` route.
 ```json
 // It is Response
-
 // If a request is made to an incorrect URL, this response will be returned.
 {
   "available routes": [
